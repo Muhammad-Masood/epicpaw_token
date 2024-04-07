@@ -64,3 +64,21 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+- Name: EPICPAW
+- Symbol EPIC
+- Type: BEP20
+- Total Supply: 10.000.000
+- Wallets: Just Owner Wallet
+- Decimals: 18
+- Burn & Mint
+- Fix PRE-SALE price (0.00017$)
+- PRE SALE Start 30.04.2024
+- PRE SALE End 30.06.2024
+- Security things
+- Reentrancy Guards
+- Compliance relevant things
+- Whitelist/Blacklist relevant things
+- follow vesting rules
+
+(follow my shared .sol file)
